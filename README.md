@@ -12,7 +12,7 @@ A collection of apps I have created. Currently designed to be used on Android an
 
 ## Changelog
  * 28/09/20 
-   * >Uploaded guessingGame and goalPlanner
+   >Uploaded guessingGame and goalPlanner
  
   
   
